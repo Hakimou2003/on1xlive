@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Capes Rewards 4k sooon`,"http://twitch.tv/On1x")
+client.user.setGame(`Capes Rewards`,"http://twitch.tv/On1x")
 client.user.setStatus("dnd")
 });
 
